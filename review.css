@@ -1,0 +1,13 @@
+* {
+  background-image: url("Ramen\ Ichiraku.png");
+}
+.rev {
+  display: flex;
+}
+.rev,
+img {
+  height: 700px;
+}
+.form {
+  margin-right: 250px;
+}
